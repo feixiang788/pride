@@ -6,6 +6,8 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - request_query_department_number
+  - request_query_person_number
 
 responses:
   utter_greet:
@@ -26,6 +28,9 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_ans_query:
+  - text: "Sorry, we don't have it."
 
 session_config:
   session_expiration_time: 60

@@ -1,6 +1,6 @@
 # pride
 
-【为梦想而奋斗，Day0】
+【为梦想而奋斗，Day0】2020.06.25
 
 1.熟悉rasa开源平台，可以下载并尝试官方demo
 https://rasa.com/
@@ -19,3 +19,10 @@ https://www.aclweb.org/portal/node/4444
 
 4.推荐1片博客，关于对话系统发展方向的5个层级，目前主要还是停留在第二等级
 https://blog.rasa.com/5-levels-of-conversational-ai-2020-update/
+
+【为梦想而奋斗，Day1】2020.06.26
+讨论结果
+1.首先不关注技术细节，首先把系统通用平台进行熟悉
+
+【为梦想而奋斗，Day1】2020.06.27
+1.完成project的创建，计划首先将其替换为简单的查询系统

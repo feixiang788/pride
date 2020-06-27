@@ -54,3 +54,13 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:request_query_department_number
+- could you tell me what is the fifth company telephone number?
+- could you find the fifth company telephone number?
+- what is the fifth company telephone number?
+
+## intent:request_query_person_number
+- what is the company commander's telephone number?
+- what is the company commander's cellphone number?
+- could you tell me what is the Company commander's phone number?

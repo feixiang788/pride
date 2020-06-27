@@ -29,3 +29,11 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+  
+## query story 1
+* request_query_department_number
+  - utter_ans_query
+
+## query story 2
+* request_query_person_number
+  - utter_ans_query
