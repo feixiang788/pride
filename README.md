@@ -24,5 +24,7 @@ https://blog.rasa.com/5-levels-of-conversational-ai-2020-update/
 讨论结果
 1.首先不关注技术细节，首先把系统通用平台进行熟悉
 
-【为梦想而奋斗，Day1】2020.06.27
-1.完成project的创建，计划首先将其替换为简单的查询系统
+【为梦想而奋斗，Day2】2020.06.27
+1.完成project的创建，计划首先将其替换为简单英文查询系统
+
+2.替换的步骤，首先更改系统的domain.yml主要是增加2个intents，然后增加2个stories，详情看相关文件.
