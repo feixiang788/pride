@@ -9,7 +9,8 @@ https://rasa.com/
 https://www.aclweb.org/portal/node/4444
 如果做细分，可以从这个DSTC入手，但是对资源要求较高
 
-3.讨论结果 
+3.讨论结果
+
 
 （1）需要从已有个人经验中和对话数据中，穷举多样的应用场景
 
@@ -31,3 +32,12 @@ https://blog.rasa.com/5-levels-of-conversational-ai-2020-update/
 1.完成project的创建，计划首先将其替换为简单英文查询系统
 
 2.替换的步骤，首先更改系统的domain.yml主要是增加2个intents，然后增加2个stories，详情看相关文件.
+
+【为梦想而奋斗，Day4】2020.06.29
+
+1.齐航完成rasa系统的安装
+
+讨论结果
+1.完成信息查询的场景枚举
+
+2.将系统改为中文系统

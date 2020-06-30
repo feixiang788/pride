@@ -1,25 +1,25 @@
-intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - bot_challenge
-  - request_query_department_number
-  - request_query_person_number
-
-responses:
-  utter_greet:
-  - text: "您好！请问有什么可以为您服务"
-
-  utter_goodbye:
-  - text: "再见"
-
-  utter_iamabot:
-  - text: "我是对话系统pride，由Rasa打造."
-
-  utter_ans_query:
-  - text: "对不起，我们的数据库没有此号码"
-
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- request_query_department_number
+- request_query_person_number
+responses:
+  utter_greet:
+  - text: 您好！请问有什么可以为您服务
+  utter_goodbye:
+  - text: 再见
+  utter_iamabot:
+  - text: 我是对话系统pride，由Rasa打造.
+  utter_ans_query:
+  - text: 对不起，我们的数据库没有此号码
+actions:
+- utter_greet
+- utter_goodbye
+- utter_iamabot
+- utter_ans_query
